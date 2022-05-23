@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fintechstartup-dev-194753-authRole",
+      "UnauthRoleArn": "arn:aws:iam::410934661658:role/amplify-fintechstartup-dev-194753-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::410934661658:role/amplify-fintechstartup-dev-194753-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-fintechstartup-dev-194753-deployment",
+      "UnauthRoleName": "amplify-fintechstartup-dev-194753-unauthRole",
+      "StackName": "amplify-fintechstartup-dev-194753",
+      "StackId": "arn:aws:cloudformation:ap-south-1:410934661658:stack/amplify-fintechstartup-dev-194753/a02c7af0-d847-11ec-a44c-06b217e744a8",
+      "AmplifyAppId": "d1q2xwwh3oo7ct"
+    }
+  }
+}
